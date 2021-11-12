@@ -1,0 +1,9 @@
+API_PORT=5000
+DB_TYPE=postgres
+PG_USER=postgres
+PG_HOST=localhost
+PG_DATABASE=nur
+PG_PASSWORD=password
+PG_PORT=5432
+APOLLO_CACHE_EXPIRY_TIME_IN_SECS=120
+EXTERNAL_API='https://blockchain.info'
